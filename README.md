@@ -15,3 +15,5 @@ the function and run automatically when you commit through a GitHub action.
 
 What is the worst-case big $\Theta$ complexity of your implementation? Add your
 answer, including your reasoning, to this markdown file.
+
+Analysis: The worst time complexity  is O(V+E) because the algorithm processes each node and edge at most once.
